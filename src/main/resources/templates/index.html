@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>websocket</title>
+</head>
+
+<body>
+
+    <p>userId:</p>
+    <input type="text" id="userId" name="userId" >
+    <button onclick="connect()">建立连接</button>
+
+    <p>content:</p>
+    <input type="text" id="content" name="content">
+    <button onclick="send()">发送</button>
+
+    <p></p>
+    <button onclick="closeWebsocket()">断开连接</button>
+
+
+    <script>
+
+        var socket;
+
+        function openWebsocket(){
+
+            if (typeof (WebSocket) == "undefined"){
+                console.log("当前浏览器不支持websocket")
+            }else {
+
+                console.log("当前浏览器支持websocket")
+
+                if (socket!=null){
+                    socket.close();
+                    socket=null;
+                }
+
+                var userId = document.getElementById('userId').value;
+                console.log('userId: ' + userId);
+
+                //wss 对应 https
+                socket = new WebSocket("wss://localhost:9339/websocket/" + userId);
+
+                //建立链接
+                socket.onopen = function (){
+                    console.log('成功建立链接')
+                    //发送消息
+                    socket.send('客户端向服务器发送消息')
+                };
+
+                //监听消息
+                socket.onmessage = function (msg){
+                    console.log('收到消息: ' + msg.data)
+                };
+
+                //关闭
+                socket.onclose = function (){
+                    console.log('socket已关闭')
+                };
+
+                //发生了错误
+                socket.onerror = function (err){
+                    console.log('发生了错误: ' + err)
+                };
+            }
+        }
+    </script>
+
+
+    <script>
+
+        //建立链接
+        function connect(){
+            openWebsocket();
+        }
+
+        //发送数据
+        function send(){
+            let msg = document.getElementById('content').value;
+            console.log('发送消息: ' + msg);
+            socket.send(msg);
+        }
+
+        //断开连接
+        function closeWebsocket(){
+            socket.close();
+            socket = null;
+            console.log('断开连接')
+        }
+
+    </script>
+</body>
+</html>

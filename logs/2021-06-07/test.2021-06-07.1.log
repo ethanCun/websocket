@@ -1,0 +1,64 @@
+2021-06-07 14:57:37,605 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 1.863 seconds (JVM running for 2.64)
+2021-06-07 14:58:17,164 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 12552 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 14:58:17,166 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 14:58:18,698 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 1.889 seconds (JVM running for 2.559)
+2021-06-07 15:00:55,893 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 11652 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:00:55,897 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:00:57,421 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 1.89 seconds (JVM running for 2.665)
+2021-06-07 15:02:04,132 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 14780 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:02:04,135 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:02:05,649 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 1.874 seconds (JVM running for 2.558)
+2021-06-07 15:04:45,419 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 14444 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:04:45,422 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:04:46,948 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 1.883 seconds (JVM running for 2.582)
+2021-06-07 15:05:48,663 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 14364 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:05:48,666 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:05:50,337 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.037 seconds (JVM running for 2.778)
+2021-06-07 15:07:25,951 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 16084 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:07:25,954 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:07:27,461 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 1.871 seconds (JVM running for 2.544)
+2021-06-07 15:08:41,607 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 12296 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:08:41,610 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:08:43,400 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.144 seconds (JVM running for 2.71)
+2021-06-07 15:09:27,699 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 10772 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:09:27,702 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:09:29,446 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.099 seconds (JVM running for 2.738)
+2021-06-07 15:13:30,212 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 11464 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:13:30,215 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:13:31,996 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.163 seconds (JVM running for 2.742)
+2021-06-07 15:14:19,140 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 13748 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:14:19,143 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:14:20,917 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.138 seconds (JVM running for 2.716)
+2021-06-07 15:25:29,396 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 17312 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:25:29,399 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:25:31,138 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.091 seconds (JVM running for 2.755)
+2021-06-07 15:28:11,016 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 8416 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:28:11,019 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:28:12,783 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.127 seconds (JVM running for 2.774)
+2021-06-07 15:29:39,596 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 17160 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:29:39,599 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:29:41,709 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.473 seconds (JVM running for 3.04)
+2021-06-07 15:29:55,748 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 8944 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:29:55,751 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:29:57,608 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.212 seconds (JVM running for 2.782)
+2021-06-07 15:30:09,199 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 11504 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:30:09,201 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:30:36,428 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 7340 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:30:36,431 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:30:51,943 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 16260 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:30:51,946 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:30:53,812 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.226 seconds (JVM running for 2.834)
+2021-06-07 15:32:05,699 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 15128 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:32:05,702 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:32:07,454 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.111 seconds (JVM running for 2.682)
+2021-06-07 15:32:50,445 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 13740 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:32:50,448 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:32:52,386 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.328 seconds (JVM running for 3.138)
+2021-06-07 15:38:51,226 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 9092 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:38:51,229 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:38:53,014 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.159 seconds (JVM running for 2.757)
+2021-06-07 15:40:46,789 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 1540 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:40:46,792 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
+2021-06-07 15:40:48,577 INFO (StartupInfoLogger.java:61)- Started WebsocketApplication in 2.14 seconds (JVM running for 2.726)
+2021-06-07 15:42:08,573 INFO (StartupInfoLogger.java:55)- Starting WebsocketApplication on DESKTOP-7G2N26A with PID 12196 (C:\Users\RJET-开发1\Desktop\websocket\target\classes started by RJETdev1 in C:\Users\RJET-开发1\Desktop\websocket)
+2021-06-07 15:42:08,576 INFO (SpringApplication.java:651)- No active profile set, falling back to default profiles: default
